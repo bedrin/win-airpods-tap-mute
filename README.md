@@ -1,5 +1,6 @@
 # win-airpods-tap-mute
 Mute microphone of your AirPods connected to Windows on double tap
+
 Implemented using https://github.com/Lexikos/AutoHotkey_L
 
 Use `enumerate.ahk` to find the ID of your AirPods
